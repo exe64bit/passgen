@@ -1,4 +1,4 @@
-# 🔐 SecurePassGen - Open-Source Password Generator
+# 🔐 passgen - Open-Source Password Generator
 
 **SecurePassGen** is a lightweight and open-source password generator built with **HTML**, **CSS**, and **JavaScript**. It helps users create strong, customizable passwords effortlessly while maintaining a focus on simplicity and security.
 
