@@ -17,4 +17,4 @@
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SecurePassGen.git
+   git clone https://github.com/ProgrammerDada/SecurePassGen.git
